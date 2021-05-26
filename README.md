@@ -1,6 +1,7 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Purushotham D](https://hashnode.com/@Puruboi)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src="https://github.com/Puruboi/Puruboi/blob/main/unnamed_2.jpg" />][instagram]
 
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/unnamed.png)
@@ -67,5 +68,6 @@
 [twitter]: https://twitter.com/Purusho16531070
 [Hashnode]: https://hashnode.com/@Puruboi
 [linkedin]: https://www.linkedin.com/in/purushotham-d-1792a8194/
+[instagram]: https://www.instagram.com/focus.visualisation_analysis/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
