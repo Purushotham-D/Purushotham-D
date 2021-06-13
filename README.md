@@ -39,9 +39,7 @@
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
   
 <!--Latest ProJect-LIST:END -->
-➡️ [more blog posts...](https://hashnode.com/@Puruboi)
-</td>
-<td valign="top" width="50%">
+
 
   <details>
 <summary>📊 Github Stats</summary>
