@@ -30,15 +30,11 @@
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
-- [WhatsApp_Messenger_Automated ](https://github.com/Puruboi/Project-3-Whatsapp_Messenger)
-- [Traffic_Python a GeekTrust Challenege Solved](https://github.com/Puruboi/Project-2-Traffic_Python)
-- [Honey the AI Assistant](https://github.com/Puruboi/Honey_the_AI_Assistant)
-- [Python_Programming | Beginners Practice Programs](https://github.com/Puruboi/Python_Programing)
-- [JavaScript_Programming | Beginners Practice Programs](https://github.com/Puruboi/Java_Script)
-- [Word Cloud Project](https://github.com/Puruboi/Project-5-WORD-CLOUD-PROJECT)
-- [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Introduction-and-Queries)
-- [GAMES](https://github.com/Puruboi/Project-1-Games)
-- [Web-Scrapping Projects](https://github.com/Puruboi/Project-4-Web_scrapping-projects)
+- [WhatsApp_Bulk_Messenger](https://github.com/Puruboi/Whatsapp_Bulk_Messenger)
+- [Traffic_Python a GeekTrust Challenege Solved](https://github.com/Puruboi/Traffic_Python_GeekTrust_Challenge)
+- [GAMES](https://github.com/Puruboi/Games)
+- [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
+  
 <!--Latest ProJect-LIST:END -->
 ➡️ [more blog posts...](https://hashnode.com/@Puruboi)
 </td>
