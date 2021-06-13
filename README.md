@@ -1,17 +1,15 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Purushotham D](https://hashnode.com/@Puruboi)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Purushotham D  Friendly called As "PURUBOI"](https://hashnode.com/@Puruboi)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://github.com/Puruboi/Puruboi/blob/main/unnamed_2.jpg" />][instagram]
 
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
-![alt text](https://github.com/Puruboi/Puruboi/blob/main/unnamed.png)
 
 ### My Tech routes 🧰
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>   
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/Puruboi/Puruboi/blob/main/26cd2e5082f1aeb9e8afc52f6a6c7e2e.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
