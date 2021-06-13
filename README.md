@@ -28,6 +28,11 @@
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
+- [Number_Programming](https://github.com/Puruboi/Numbers_Programming) 
+- [Pattern_Programming](https://github.com/Puruboi/Pattern_Programming)
+- [Conversion_Programming](https://github.com/Puruboi/Conversion_Programming)
+- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)
+- [Interview_Questions](https://github.com/Puruboi/Interview_Questions)  
 - [WhatsApp_Bulk_Messenger](https://github.com/Puruboi/Whatsapp_Bulk_Messenger)
 - [Traffic_Python a GeekTrust Challenege Solved](https://github.com/Puruboi/Traffic_Python_GeekTrust_Challenge)
 - [GAMES](https://github.com/Puruboi/Games)
