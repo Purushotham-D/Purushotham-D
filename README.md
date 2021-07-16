@@ -37,7 +37,7 @@
 - [Traffic_Python a GeekTrust Challenege Solved](https://github.com/Puruboi/Traffic_Python_GeekTrust_Challenge)
 - [GAMES](https://github.com/Puruboi/Games)
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
-  
+- [Exponential Average and Simple Average Calculation and Analysising Stock Data](https://github.com/Puruboi/Stock_Data_Analysis)
 <!--Latest ProJect-LIST:END -->
 
 
