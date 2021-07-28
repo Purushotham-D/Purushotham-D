@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
+
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Purushotham D, Friends call me "PURUBOI"](https://hashnode.com/@Puruboi)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -38,10 +40,7 @@
 - [WhatsApp_Bulk_Messenger](https://github.com/Puruboi/Whatsapp_Bulk_Messenger)
 - [GAMES](https://github.com/Puruboi/Games)
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
-<!--Latest ProJect-LIST:END -->
-
-                                                              ![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
-
+<!--Latest ProJect-LIST:END -
 
 [twitter]: https://twitter.com/Purusho16531070
 [Hashnode]: https://hashnode.com/@Puruboi
