@@ -28,8 +28,8 @@
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
-- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)
-- [Challenge_Programs_Attacked](https://github.com/Puruboi/Challenege_Programs_Attacked)
+- [Hackerrank_Challenges](https://github.com/Puruboi/Hackerrank_Challenges)
+- [Other_Challenge_Programs_Attacked](https://github.com/Puruboi/Challenege_Programs_Attacked)
 - [Number_Programming](https://github.com/Puruboi/Numbers_Programming) 
 - [Pattern_Programming](https://github.com/Puruboi/Pattern_Programming)
 - [Conversion_Programming](https://github.com/Puruboi/Conversion_Programming)
