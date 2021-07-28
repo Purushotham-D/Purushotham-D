@@ -41,12 +41,6 @@
 <!--Latest ProJect-LIST:END -->
 
 
-  <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="[![Purushotham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puruboi)]" />
-<p align="center"> <img src="![Purushotham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puruboi&show_icons=true&theme=radical)"/>
-<p align="center"> <img src="![Purushotham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puruboi&show_icons=true)"/>
   
   
 <a href="https://github.com/Puruboi/github-readme-stats">
