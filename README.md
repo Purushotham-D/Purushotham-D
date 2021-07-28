@@ -40,7 +40,7 @@
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
 <!--Latest ProJect-LIST:END -->
 
- ![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
+                                                              ![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
 
 
 [twitter]: https://twitter.com/Purusho16531070
