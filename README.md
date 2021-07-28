@@ -40,19 +40,6 @@
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
 <!--Latest ProJect-LIST:END -->
 
-
-  
-  
-<a href="https://github.com/Puruboi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Puruboi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Puruboi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Puruboi&repo=convoychat" />
-</a>
-
-</details>
-
-
  ![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
 
 
