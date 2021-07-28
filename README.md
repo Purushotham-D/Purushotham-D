@@ -17,7 +17,7 @@
 * Earned Bronze badge & 2 star at HackerRank in Python programming.
 * Earned Bronze badge & 2 star at HackerRank in 30 Days of Code.
 * Earned Bronze badge & 1 star at HackerRank in SQL.
-* Passionate for learning & exploring new Tech. Assist Python Training at Besant Technologies, Working as Project Engineer at Skytech 
+* Passionate for learning & exploring new Tech. Assist Python Training at Besant Technologies, Looking for opporunity to Work as a SDE in a fast growing Organisation. 
 * I am working on building my online presence.
 
 <!--* I am currently learning JavaScript and DeepLearing-->
