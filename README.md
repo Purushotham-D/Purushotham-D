@@ -28,16 +28,16 @@
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
+- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)
+- [Challenge_Programs_Attacked](https://github.com/Puruboi/Challenege_Programs_Attacked)
 - [Number_Programming](https://github.com/Puruboi/Numbers_Programming) 
 - [Pattern_Programming](https://github.com/Puruboi/Pattern_Programming)
 - [Conversion_Programming](https://github.com/Puruboi/Conversion_Programming)
 - [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)
 - [Interview_Questions](https://github.com/Puruboi/Interview_Questions)  
 - [WhatsApp_Bulk_Messenger](https://github.com/Puruboi/Whatsapp_Bulk_Messenger)
-- [Traffic_Python a GeekTrust Challenege Solved](https://github.com/Puruboi/Traffic_Python_GeekTrust_Challenge)
 - [GAMES](https://github.com/Puruboi/Games)
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
-- [Exponential Average and Simple Average Calculation and Analysising Stock Data](https://github.com/Puruboi/Stock_Data_Analysis)
 <!--Latest ProJect-LIST:END -->
 
 
