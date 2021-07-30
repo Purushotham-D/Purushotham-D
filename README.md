@@ -35,9 +35,7 @@
 - [Number_Programming](https://github.com/Puruboi/Numbers_Programming) 
 - [Pattern_Programming](https://github.com/Puruboi/Pattern_Programming)
 - [Conversion_Programming](https://github.com/Puruboi/Conversion_Programming)
-- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)
-- [Interview_Questions](https://github.com/Puruboi/Interview_Questions)  
-- [WhatsApp_Bulk_Messenger](https://github.com/Puruboi/Whatsapp_Bulk_Messenger)
+- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)  
 - [GAMES](https://github.com/Puruboi/Games)
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
 <!--Latest ProJect-LIST:END -
