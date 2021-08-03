@@ -1,0 +1,50 @@
+2020-05-06 15:19:48,906: INFO:<facebook>  trying to connecting to url at Wed May  6 15:19:48 2020
+2020-05-06 15:21:12,522: INFO:<facebook>  trying to connecting to url at Wed May  6 15:21:12 2020
+2020-05-06 15:32:08,896: INFO:<gmail>  trying to connecting to url at Wed May  6 15:32:08 2020
+2020-05-06 15:32:17,747: INFO:Unable to find the Xpath mouseClick - //*[@id="identifierNext"]/div[2] - Message: element click intercepted: Element <div class="ZFr60d CeoRYc"></div> is not clickable at point (658, 492). Other element would receive the click: <span class="RveJvd snByac">...</span>
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:32:18,385: INFO:Unable to find the Xpath mouseClickSendKeyandTab - //*[@id="password"]/div[1]/div/div[1]/input - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]/div[1]/div/div[1]/input"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:32:18,400: INFO:Unable to find the Xpath mouseClick - //*[@id="passwordNext"]/div[2] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="passwordNext"]/div[2]"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:33:43,595: INFO:<gmail>  trying to connecting to url at Wed May  6 15:33:43 2020
+2020-05-06 15:36:46,497: INFO:<gmail>  trying to connecting to url at Wed May  6 15:36:46 2020
+2020-05-06 15:36:56,905: INFO:Unable to find the Xpath mouseClickSendKeyandTab - //*[@id="password"]/div[1]/div/div[1]/input - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]/div[1]/div/div[1]/input"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:36:56,922: INFO:Unable to find the Xpath mouseClick - //*[@id="passwordNext"]/span/span - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="passwordNext"]/span/span"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:48:10,149: INFO:<gmail>  trying to connecting to url at Wed May  6 15:48:10 2020
+2020-05-06 15:48:18,265: INFO:Unable to find the Xpath mouseClick - //*[@id="identifierNext"]/div[2] - Message: element click intercepted: Element <div class="ZFr60d CeoRYc"></div> is not clickable at point (658, 492). Other element would receive the click: <span class="RveJvd snByac">...</span>
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:48:18,805: INFO:Unable to find the Xpath mouseClickSendKeyandTab - //*[@id="password"]/div[1]/div/div[1]/input - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]/div[1]/div/div[1]/input"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:48:18,820: INFO:Unable to find the Xpath mouseClick - //*[@id="passwordNext"]/div[2] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="passwordNext"]/div[2]"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:53:33,140: INFO:<gmail>  trying to connecting to url at Wed May  6 15:53:33 2020
+2020-05-06 15:53:41,356: INFO:Unable to find the Xpath mouseClick - //*[@id="identifierNext"]/div[2] - Message: element click intercepted: Element <div class="ZFr60d CeoRYc"></div> is not clickable at point (658, 492). Other element would receive the click: <span class="RveJvd snByac">...</span>
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:53:41,893: INFO:Unable to find the Xpath mouseClickSendKeyandTab - //*[@id="password"]/div[1]/div/div[1]/input - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]/div[1]/div/div[1]/input"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:53:41,933: INFO:Unable to find the Xpath mouseClick - //*[@id="passwordNext"]/div[2] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="passwordNext"]/div[2]"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:54:52,390: INFO:<gmail>  trying to connecting to url at Wed May  6 15:54:52 2020
+2020-05-06 15:55:02,816: INFO:Unable to find the Xpath mouseClick - //*[@id="identifierNext"]/div[2] - Message: element click intercepted: Element <div class="ZFr60d CeoRYc"></div> is not clickable at point (658, 492). Other element would receive the click: <span class="RveJvd snByac">...</span>
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:55:03,331: INFO:Unable to find the Xpath mouseClickSendKeyandTab - //*[@id="password"]/div[1]/div/div[1]/input - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]/div[1]/div/div[1]/input"}
+  (Session info: chrome=81.0.4044.129)
+
+2020-05-06 15:55:03,352: INFO:Unable to find the Xpath mouseClick - //*[@id="passwordNext"]/div[2] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="passwordNext"]/div[2]"}
+  (Session info: chrome=81.0.4044.129)
+
