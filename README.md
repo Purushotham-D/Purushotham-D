@@ -24,20 +24,20 @@
 
 <!--* I am currently learning JavaScript and DeepLearing-->
 <!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
+<!-- * Ask me about anything, I'll be happy to help, if Possible.....-->
 
 <table><tr><td valign="top" width="50%">
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
-- [Hackerrank_Challenges](https://github.com/Puruboi/Hackerrank_Challenges)
-- [Other_Challenge_Programs_Attacked](https://github.com/Puruboi/Challenege_Programs_Attacked)
-- [Number_Programming](https://github.com/Puruboi/Numbers_Programming) 
-- [Pattern_Programming](https://github.com/Puruboi/Pattern_Programming)
-- [Conversion_Programming](https://github.com/Puruboi/Conversion_Programming)
-- [Hackerrank_Challwnges](https://github.com/Puruboi/Hackerrank_Challenges)  
-- [GAMES](https://github.com/Puruboi/Games)
+- [Basic_Programming](https://github.com/Purushotham-D/Basic_Programming)
+- [Programming-Challenges](https://github.com/Purushotham-D/Programming-Challenges)
+- [Interview-Challenges](https://github.com/Purushotham-D/Interview-Challenges)
+- [Data_Structure_Algorithms_using_Python](https://github.com/Purushotham-D/Data_Structure_Algorithms_using_Python)
+- [Projects](https://github.com/Purushotham-D/Projects)  
+- [GAMES](https://github.com/Purushotham-D/Games)
 - [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
+  
 <!--Latest ProJect-LIST:END -
 
 [twitter]: https://twitter.com/Purusho16531070
