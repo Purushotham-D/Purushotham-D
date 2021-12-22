@@ -15,7 +15,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-* My primary coding language: Python
+* Assistant System Engineer At TCS
+* My primary coding language: Python.
+* My Secondary Competency Java , SQL. 
 * Earned Bronze badge & 2 star at HackerRank in Python programming.
 * Earned Bronze badge & 2 star at HackerRank in 30 Days of Code.
 * Earned Bronze badge & 1 star at HackerRank in SQL.
