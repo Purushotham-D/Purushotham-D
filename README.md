@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> its me Purushotham D
 
-#Puruboi_Since_1998
+                                                               #PURUBOI_SINCE_1998
 
 ![alt text](https://github.com/Purushotham-D/Purushotham-D/blob/main/AppBreweryWallpaper.jpg)
 
