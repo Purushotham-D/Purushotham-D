@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Puruboi}/count.svg)
 
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> its me]
-# ["Puruboi_Since_1998"]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> its me Purushotham D
+# Brand : "Puruboi_Since_1998"
 
 ![alt text](https://github.com/Purushotham-D/Purushotham-D/blob/main/AppBreweryWallpaper.jpg)
 
