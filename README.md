@@ -33,12 +33,7 @@
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
 - [Basic_Programming](https://github.com/Purushotham-D/Basic_Programming)
-- [Programming-Challenges](https://github.com/Purushotham-D/Programming-Challenges)
 - [Interview-Challenges](https://github.com/Purushotham-D/Interview-Challenges)
-- [Data_Structure_Algorithms_using_Python](https://github.com/Purushotham-D/Data_Structure_Algorithms_using_Python)
-- [Projects](https://github.com/Purushotham-D/Projects)  
-- [GAMES](https://github.com/Purushotham-D/Games)
-- [SQL Introduction and Queries](https://github.com/Puruboi/SQL-Queries)
   
 <!--Latest ProJect-LIST:END -
 
